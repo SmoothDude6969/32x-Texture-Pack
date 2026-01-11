@@ -8,11 +8,9 @@ I really wanna say thanks to heythereu, which helped me a lot in this journey. W
 
 💡 **Credits**
 
-Ores outline: SmoothDude6969
+Custom Background: Heythereu's b2b :)
 
-Enchantment glint: Minecraft Rainbow Glint texture pack
-
-Custom background: MinecraftImages
+Texture: Faithful 32x
 
 If you wanna DM me for issues or anything send to: 
 
